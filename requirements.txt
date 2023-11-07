@@ -1,6 +1,6 @@
 numpy
 pandas
-wetterdienst
+wetterdienst==0.20.3
 scipy
 seaborn
 datetime
